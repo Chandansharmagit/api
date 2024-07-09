@@ -509,7 +509,7 @@
         "size": "Queen Sleeper",
         "material": "Fabric",
         "price": 2499.99,
-        "img": "https://cdn.1stopbedrooms.com/media/catalog/product/z/o/zoey-light-gray-linen-convertible-sleeper-sofa-with-side-pocket_qb13311884.jpg"
+        "img": "https://ak1.ostkcdn.com/images/products/is/images/direct/7e72d513b2611e5819141f86159b3c7eaf25e793/Cape-Coral-Aluminum-Outdoor-Sectional-Sofa-Set-with-Fire-Table-by-Christopher-Knight-Home.jpg"
     },
     {
         "id": 48,
@@ -529,7 +529,7 @@
         "size": "6-Seater",
         "material": "Fabric",
         "price": 2099.99,
-        "img": "https://cdn.1stopbedrooms.com/media/catalog/product/z/o/zoey-light-gray-linen-convertible-sleeper-sofa-with-side-pocket_qb13311884.jpg"
+        "img": "https://image.made-in-china.com/2f0j00hZQcmPIlEVbM/Living-Outdoor-Sectional-Sofa-Set-Modern-Furniture-Garden-Outdoor-Furniture-Aluminum-Teak-Sofa.jpg"
     },
     {
         "id": 50,
@@ -539,7 +539,7 @@
         "size": "Single Chaise",
         "material": "Leather",
         "price": 1299.99,
-        "img": "https://cdn.1stopbedrooms.com/media/catalog/product/z/o/zoey-light-gray-linen-convertible-sleeper-sofa-with-side-pocket_qb13311884.jpg"
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ59NX4swQb3OGyWn8njVHLmir2FMLVJwgMZg&s"
     },
     {
         "id": 51,
@@ -784,6 +784,16 @@
     {
         "id": 75,
         "name": "Fabric Reclining Sofa - Dark Grey",
+        "desc": "Fabric reclining sofa in dark grey with powered recliners and USB ports.",
+        "stock": "In Stock",
+        "size": "3-Seater",
+        "material": "Fabric",
+        "price": 1699.99,
+        "img": "https://example.com/sofa75.jpg"
+    },
+    {
+        "id": 76,
+        "name": "Fabric Reclining Sofa - Dark Grey chandan sharma new upload products",
         "desc": "Fabric reclining sofa in dark grey with powered recliners and USB ports.",
         "stock": "In Stock",
         "size": "3-Seater",
